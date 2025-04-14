@@ -6,8 +6,7 @@ Este proyecto muestra un análisis completo de una base de empleados ficticia, u
 
 - `rrhh_dataset.xlsx` → Datos simulados de 200 empleados
 - `informe_rrhh.pbix` → Proyecto completo de Power BI
-- `dashboard-preview.png` → Vista previa del informe final
-- Capturas individuales en `/screenshots`
+
 
 ## 🎯 Indicadores clave
 
